@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -97,7 +96,7 @@ const LiveLaunches = () => {
       timeLeft: '12h 30m',
       status: 'upcoming'
     }
-  ];
+  ]);
 
   const getStatusColor = (status: string) => {
     switch (status) {
