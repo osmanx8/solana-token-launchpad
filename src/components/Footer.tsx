@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 rounded-full bg-gradient-to-r from-solana-purple to-solana-green animate-pulse-slow"></div>
               <span className="text-xl font-bold bg-gradient-to-r from-solana-purple to-solana-green bg-clip-text text-transparent">
-                KingPad
+                cryptokingmax
               </span>
             </div>
             <p className="text-gray-400 text-sm">
@@ -75,7 +75,14 @@ const Footer = () => {
             <div className="space-y-3 text-gray-400 text-sm">
               <div className="flex items-center space-x-2">
                 <MessageCircle className="w-4 h-4" />
-                <span>cryptokingmax</span>
+                <a 
+                  href="https://t.me/cryptokingmax" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                  cryptokingmax
+                </a>
               </div>
               <div className="flex items-center space-x-2">
                 <Globe className="w-4 h-4" />
@@ -106,7 +113,7 @@ const Footer = () => {
         <div className="border-t border-white/10 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © {currentYear} KingPad. All rights reserved.
+              © {currentYear} cryptokingmax. All rights reserved.
             </p>
             <div className="flex space-x-6 text-gray-400 text-sm">
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

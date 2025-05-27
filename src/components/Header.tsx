@@ -41,7 +41,7 @@ const Header = () => {
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 rounded-full bg-gradient-to-r from-solana-purple to-solana-green animate-pulse-slow"></div>
             <span className="text-xl font-bold bg-gradient-to-r from-solana-purple to-solana-green bg-clip-text text-transparent">
-              KingPad
+              CryptoKingmax
             </span>
           </div>
 
