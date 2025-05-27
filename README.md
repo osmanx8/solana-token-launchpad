@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 Solana Token Launchpad(Please give me Star🌟🌟🌟🌟🌟folk)
+# 🚀 Solana Token Launchpad(Please give me Star🌟☝☝☝🌟folk)
 
 A full-featured, blazing-fast Solana token launchpad to easily deploy SPL tokens, raise liquidity, and launch memecoins — all in one powerful DApp.
 
