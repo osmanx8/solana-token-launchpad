@@ -82,9 +82,10 @@ const Header = () => {
               href="https://t.me/cryptokingmax" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-white transition-colors flex items-center space-x-1"
             >
               <MessageCircle className="w-5 h-5" />
+              <span className="text-sm">cryptoking</span>
             </a>
             <a 
               href="https://cryptokingmax.com" 
@@ -153,9 +154,10 @@ const Header = () => {
                   href="https://t.me/cryptokingmax" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-white transition-colors"
+                  className="text-gray-400 hover:text-white transition-colors flex items-center space-x-1"
                 >
                   <MessageCircle className="w-5 h-5" />
+                  <span className="text-sm">cryptoking</span>
                 </a>
                 <a 
                   href="https://cryptokingmax.com" 
