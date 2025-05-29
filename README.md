@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 Solana Token Launchpad(Please give me Star🌟☝☝☝🌟folk)
+# 🚀 Solana Token Launch pad(Please give me Star🌟☝☝☝🌟folk)
 
 A full-featured, blazing-fast Solana token launchpad to easily deploy SPL tokens, raise liquidity, and launch memecoins — all in one powerful DApp.
 
@@ -97,5 +97,7 @@ npm run dev
 
 ## 📄 Please let me know if you want this tailored for a Telegram-based launchpad, an on-chain-only version, or something tightly integrated with [pump.fun](https://pump.fun) or other APIs.
 #Here: t.me/cryptokingmax ❤
+[solana-token-launch-one.vercel.app/](https://solana-token-launch-one.vercel.app/)
+
 ---
 
