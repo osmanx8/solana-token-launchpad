@@ -97,7 +97,6 @@ npm run dev
 
 ## 📄 Please let me know if you want this tailored for a Telegram-based launchpad, an on-chain-only version, or something tightly integrated with [pump.fun](https://pump.fun) or other APIs.
 #Here: t.me/web3_maxim ❤
-[solana-token-launch-one.vercel.app/](https://solana-token-launch-one.vercel.app/)
 
 ---
 
